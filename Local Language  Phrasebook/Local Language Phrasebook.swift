@@ -11,7 +11,7 @@ import SwiftUI
 struct Local_Language__PhrasebookApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            WelcomePage()
         }
     }
 }
