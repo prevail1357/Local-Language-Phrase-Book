@@ -22,7 +22,7 @@ struct LanguageSelectionPage: View {
                         .fontWeight(.bold)
                         .padding(30)
                   
-                    NavigationLink{LanguageCategoryPage()}label: {
+                    NavigationLink{LanguageCategoryPage(language: .ndebele)}label: {
                         ZStack{
                           RoundedRectangle(cornerRadius: 20)
                                 .fill(AngularGradient(gradient: Gradient(colors: [Color.white, Color.green]), center: .bottom, angle: .degrees(365)))
@@ -35,7 +35,7 @@ struct LanguageSelectionPage: View {
                         }
                     }
                             
-                    NavigationLink{LanguageCategoryPage()}label: {
+                    NavigationLink{LanguageCategoryPage(language: .shona)}label: {
                         ZStack{
                             RoundedRectangle(cornerRadius: 20)
                                 .fill(AngularGradient(gradient: Gradient(colors: [Color.white, Color.green]), center: .bottom, angle: .degrees(365)))
