@@ -6,9 +6,12 @@
 //
 
 import SwiftUI
+import AVFoundation
+
 
 struct PhraseListView: View {
     let category: PhraseCategory
+    @State private var audioTranslation: AVAudioPlayer?
     
     var body: some View {
         NavigationStack{
@@ -27,10 +30,13 @@ struct PhraseListView: View {
                                 .frame(maxWidth: .infinity, alignment: .leading)
                         }
 
-                        
-                        Image(systemName: "speaker.wave.2.fill")
-                            .foregroundColor(.green)
-                            .font(.title3)
+                        Button( action: {
+                            playAudio(fileName: phrase.audioFileName)
+                        }){
+                            Image(systemName: "speaker.wave.2.fill")
+                                .foregroundColor(.green)
+                                .font(.title3)
+                        }
                     }
                     RoundedRectangle(cornerRadius: 20)
                         .foregroundColor(.green)
@@ -44,6 +50,17 @@ struct PhraseListView: View {
         .navigationTitle(category.name)
         
         
+    }
+    func playAudio(fileName: String){
+        if let url = Bundle.main.url(forResource: fileName, withExtension: ".mp3"){
+            do {
+                audioTranslation = try AVAudioPlayer(contentsOf: url)
+                audioTranslation?.prepareToPlay()
+                audioTranslation?.play()
+            }catch{
+                print("Error playing \(error.localizedDescription)")
+            }
+        }
     }
 }
 
