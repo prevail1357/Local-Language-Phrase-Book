@@ -33,46 +33,46 @@ struct LanguageCategoryPage: View {
         switch language {
         case .shona:
             return [ PhraseCategory( name: "Greetings", phrases:[
-                Phrase( text: "Mhoro", translation: "Hello", audioFileName: ""),
-                Phrase( text: "Good Morning", translation: "Mangwanani akanaka", audioFileName: ""),
-                Phrase( text: "Good Afternoon", translation: "Masikati Akanaka", audioFileName: " "),
-                Phrase( text: "Good Evening", translation: "Manheru Akanaka", audioFileName: ""),
-                Phrase(text: "Good Night", translation: "Urare Zvakanaka", audioFileName: ""),
-                Phrase(text: "How are you?", translation: "Uri sei?", audioFileName: ""),
-                Phrase(text: "How have you been?", translation: "Wanga urisei?", audioFileName: ""),
-                Phrase(text: "What is your name?", translation: "Unonzani?", audioFileName: ""),
-                Phrase(text: "Where are you from?", translation: "Unobva kupi?", audioFileName: "")
+                Phrase( text: "Mhoro", translation: "Hello", audioFileName: "Mhoro"),
+                Phrase( text: "Good Morning", translation: "Mangwanani akanaka", audioFileName: "Mangwanani"),
+                Phrase( text: "Good Afternoon", translation: "Masikati Akanaka", audioFileName: "Masikati"),
+                Phrase( text: "Good Evening", translation: "Manheru Akanaka", audioFileName: "Manheru"),
+                Phrase(text: "Good Night", translation: "Urare Zvakanaka", audioFileName: "Urare"),
+                Phrase(text: "How are you?", translation: "Uri sei?", audioFileName: "Uri sei"),
+                Phrase(text: "How have you been?", translation: "Wanga urisei?", audioFileName: "Wanga urisei"),
+                Phrase(text: "What is your name?", translation: "Unonzani?", audioFileName: "Unonzani"),
+                Phrase(text: "Where are you from?", translation: "Unobva kupi?", audioFileName: "Unobva kupi")
             ]),
                      PhraseCategory(name: "Emergency", phrases: [
-                        Phrase(text: "Help!", translation: "Rubatsiro!", audioFileName: ""),
-                        Phrase(text: "Fire!", translation: "Moto!", audioFileName: ""),
-                        Phrase(text: "Thief!", translation: "Mbavha!", audioFileName: ""),
-                        Phrase(text: "Stop!", translation: "Mira!", audioFileName: ""),
-                        Phrase(text: "Watch out!", translation: "Chenjerera!", audioFileName: ""),
-                        Phrase(text: "Are you okay?", translation: "Uri kunzwa mushe here?", audioFileName: ""),
-                        Phrase(text: "Call an ambulance!", translation: "Fonera ambulensi!", audioFileName: "" )
+                        Phrase(text: "Help!", translation: "Rubatsiro!", audioFileName: "Rubatsiro"),
+                        Phrase(text: "Fire!", translation: "Moto!", audioFileName: "Moto"),
+                        Phrase(text: "Thief!", translation: "Mbavha!", audioFileName: "Mbava"),
+                        Phrase(text: "Stop!", translation: "Mira!", audioFileName: "Mira"),
+                        Phrase(text: "Watch out!", translation: "Chenjerera!", audioFileName: "Chenjerera"),
+                        Phrase(text: "Are you okay?", translation: "Uri kunzwa mushe here?", audioFileName: "Uri kunzwa mushe here"),
+                        Phrase(text: "Call an ambulance!", translation: "Fonera ambulensi!", audioFileName: "Fonera ambulensi" )
                      ]),
                      PhraseCategory(name: "Common", phrases: [
-                        Phrase(text: "Yes", translation: "Hongu", audioFileName: ""),
-                        Phrase(text: "No", translation: "Aihwa", audioFileName: ""),
-                        Phrase(text: "Please", translation: "Ndapota", audioFileName: ""),
-                        Phrase(text: "Thank you", translation: "Tatenda", audioFileName: ""),
-                        Phrase(text: "Excuse me", translation: "Pamusoroi", audioFileName: ""),
-                        Phrase(text: "You're welcome", translation: "Unogamuchirwa", audioFileName: ""),
-                        Phrase(text: "Pardon", translation: "Kangamwiro", audioFileName: ""),
-                        Phrase(text: "Just a moment", translation: "Kangamwiro", audioFileName: ""),
-                        Phrase(text: "I don't know", translation: "Handizive", audioFileName: ""),
+                        Phrase(text: "Yes", translation: "Hongu", audioFileName: "Hongu"),
+                        Phrase(text: "No", translation: "Aihwa", audioFileName: "Ayiwa"),
+                        Phrase(text: "Please", translation: "Ndapota", audioFileName: "Ndapota"),
+                        Phrase(text: "Thank you", translation: "Tatenda", audioFileName: "Tatenda"),
+                        Phrase(text: "Excuse me", translation: "Pamusoroi", audioFileName: "Pamusoroi"),
+                        Phrase(text: "You're welcome", translation: "Unogamuchirwa", audioFileName: "Unogamuchirwa"),
+                        Phrase(text: "Pardon", translation: "Kangamwiro", audioFileName: "Kananirwo"),
+                        Phrase(text: "Just a moment", translation: "Kangamwiro", audioFileName: "Kananirwo"),
+                        Phrase(text: "I don't know", translation: "Handizive", audioFileName: "Handizive"),
                      ]),
                      
                      PhraseCategory(name: "Questions", phrases: [
-                        Phrase(text: "What?", translation: "Chi-i?", audioFileName: ""),
-                        Phrase(text: "Which?", translation: "Ndechipi?", audioFileName: ""),
-                        Phrase(text: "When?", translation: "Ri-ini?", audioFileName: ""),
-                        Phrase(text: "Where", translation: "Kupi?", audioFileName: ""),
-                        Phrase(text: "Why?", translation: "Sei?", audioFileName: ""),
-                        Phrase(text: "Who?", translation: "Ani?", audioFileName: ""),
-                        Phrase(text: "How many?", translation: "Zvingani?", audioFileName: ""),
-                        Phrase(text: "How much?", translation: "Ngani?", audioFileName: "")
+                        Phrase(text: "What?", translation: "Chi-i?", audioFileName: "Chi-i"),
+                        Phrase(text: "Which?", translation: "Ndechipi?", audioFileName: "Ndechipi"),
+                        Phrase(text: "When?", translation: "Ri-ini?", audioFileName: "Rini"),
+                        Phrase(text: "Where", translation: "Kupi?", audioFileName: "Kupi"),
+                        Phrase(text: "Why?", translation: "Sei?", audioFileName: "Sei"),
+                        Phrase(text: "Who?", translation: "Ani?", audioFileName: "Ani"),
+                        Phrase(text: "How many?", translation: "Zvingani?", audioFileName: "Zvingani"),
+                        Phrase(text: "How much?", translation: "Ngani?", audioFileName: "Ngani")
                      ]),
                      
                      PhraseCategory(name: "Body Parts", phrases: [
@@ -134,6 +134,17 @@ struct LanguageCategoryPage: View {
                      ]),
                      
             ]
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
         case .ndebele:
             return [ PhraseCategory( name: "Greetings", phrases:
                 [
@@ -265,6 +276,6 @@ struct LanguageCategoryPage: View {
 
 #Preview {
     NavigationView {
-        LanguageCategoryPage(language: .ndebele)
+        LanguageCategoryPage(language: .shona)
     }
 }
