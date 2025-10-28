@@ -227,55 +227,69 @@ struct LanguageCategoryPage: View {
         }
     }
     
+    @State private var showMenu: Bool = false
+    
     var body: some View {
         NavigationStack{
             ZStack{
-                LinearGradient(colors: [.white, .green], startPoint: .topLeading, endPoint: .bottomTrailing)
-                    .opacity(0.5)
-                    .ignoresSafeArea()
-                
-                VStack{
+                ZStack{
+                    LinearGradient(colors: [.white, .green], startPoint: .topLeading, endPoint: .bottomTrailing)
+                        .opacity(0.5)
+                        .ignoresSafeArea()
                     
-                    if searchBar.isEmpty{
-                        ScrollView{
-                            
-                            ForEach(categories) { category in
-                                NavigationLink(destination: PhraseListView(category: category)){
-                                    Text(category.name)
-                                        .font(.title)
-                                        .foregroundColor(.black)
-                                        .padding()
+                    VStack{
+                        if searchBar.isEmpty{
+                            ScrollView{
+                                Spacer(minLength: 5)
+                                ForEach(categories) { category in
+                                    NavigationLink(destination: PhraseListView(category: category)){
+                                        Text(category.name)
+                                            .font(.title)
+                                            .foregroundColor(.black)
+                                            .padding()
+                                            .frame(maxWidth: .infinity, alignment: .leading)
+                                    }
+                                }
+                            }
+                        }else{
+                            List(filteredPhrases) { phrase in
+                                VStack{
+                                    Text(phrase.text)
+                                        .font(.headline)
                                         .frame(maxWidth: .infinity, alignment: .leading)
+                                    Text(phrase.translation)
+                                        .foregroundColor(.blue)
+                                        .font(.subheadline)
+                                        .frame( maxWidth: .infinity, alignment: .leading)
                                 }
                             }
                         }
-                    }else{
-                        List(allPhrases) { phrase in
-                            VStack{
-                                Text(phrase.text)
-                                    .font(.headline)
-                                    .frame(maxWidth: .infinity, alignment: .leading)
-                                Text(phrase.translation)
-                                    .foregroundColor(.blue)
-                                    .font(.subheadline)
-                                    .frame(maxWidth: .infinity, alignment: .leading)
-                            }
-                        }
+                    }
+                    
+                    SideMenuView(isShowing: $showMenu)
+                }
+                .toolbar(showMenu ? .hidden : .visible, for: .navigationBar)
+                .navigationTitle(language == .shona ? "Shona " : "Ndebele ")
+                .navigationBarTitleDisplayMode(.inline)
+                .toolbar {
+                    ToolbarItem(placement: .topBarTrailing){
+                        Button(action: {
+                            showMenu.toggle()
+                        }, label: {
+                            Image(systemName: "line.3.horizontal")
+                        })
                     }
                 }
+                .searchable(text: $searchBar,placement: .navigationBarDrawer(displayMode: .always) ,prompt: "Search phrases")
             }
-            .navigationTitle(language == .shona ? "Shona " : "Ndebele ")
-            .searchable(text: $searchBar, placement: .navigationBarDrawer, prompt: "Search Phrase")
-            
-            
+            }
         }
     }
-}
 
 
 
 #Preview {
-    NavigationView {
-        LanguageCategoryPage(language: .shona)
+    NavigationStack {
+        LanguageCategoryPage(language: .ndebele)
     }
 }
