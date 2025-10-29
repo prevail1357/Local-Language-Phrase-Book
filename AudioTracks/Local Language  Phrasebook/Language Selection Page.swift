@@ -47,7 +47,19 @@ struct LanguageSelectionPage: View {
                                 .fontDesign(.rounded)
                         }
                     }
-                            
+                        
+                    NavigationLink{LanguageCategoryPage(language: .sepedi)}label: {
+                        ZStack{
+                            RoundedRectangle(cornerRadius: 20)
+                                .fill(AngularGradient(gradient: Gradient(colors: [Color.white, Color.green]), center: .bottom, angle: .degrees(365)))
+                                .frame(width: 390, height: 90)
+                       Text("Sotho")
+                                .foregroundColor(.indigo)
+                                .font(.title)
+                                .fontWeight(.bold)
+                                .fontDesign(.rounded)
+                        }
+                    }
                     
                 }
                 .padding()

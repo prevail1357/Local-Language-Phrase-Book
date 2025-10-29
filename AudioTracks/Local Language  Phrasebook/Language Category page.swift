@@ -10,6 +10,7 @@ import SwiftUI
 enum Language{
     case shona
     case ndebele
+    case sepedi
     
 }
 
@@ -132,11 +133,7 @@ struct LanguageCategoryPage: View {
                         Phrase(text: "One Thousand", translation: "Churu", audioFileName: "Churu")
                         
                      ]),
-                     
             ]
-            
-            
-            
             
             
             
@@ -206,6 +203,186 @@ struct LanguageCategoryPage: View {
                         Phrase(text: "Thirty", translation: "Amatshumi amathathu", audioFileName: "Amatshumi amathathu")
                         
                      ]),
+                     PhraseCategory(name: "Body Parts", phrases: [
+                        
+                        Phrase(text: "Head", translation: "Ikhanda", audioFileName: "Ikhanda"),
+                        Phrase(text: "Hair", translation: "Inwele", audioFileName: "Inwele"),
+                        Phrase(text: "Eyes", translation: "Amehlo", audioFileName: "Amehlo"),
+                        Phrase(text: "Nose", translation: "Amakhala", audioFileName: "Amakhala"),
+                        Phrase(text: "Mouth", translation: "Umlomo", audioFileName: "Umlomo"),
+                        Phrase(text: "Stomach", translation: "Isisu", audioFileName: "Isisu"),
+                        Phrase(text: "Chest", translation: "Isifuba", audioFileName: "Isifuba" ),
+                        Phrase(text: "Heart", translation: "Inhliziyo", audioFileName: "Inhliziyo" ),
+                        Phrase(text: "Back", translation: "Iqolo", audioFileName: "Iqolo" ),
+                        Phrase(text: "Skin", translation: "Isikhumba", audioFileName: "Isikhumba" )
+                     ]),
+                     PhraseCategory(name: "Animals", phrases: [
+                        Phrase(text: "Lion", translation: "Isilwane", audioFileName: "Isilwane"),
+                        Phrase(text: "Buffalo", translation: "Inyathi", audioFileName: "Inyathi"),
+                        Phrase(text: "Rhino", translation: "Ubhejana", audioFileName: "Ubhejana"),
+                        Phrase(text: "Chicken", translation: "Inkukhu", audioFileName: "Inkukhu"),
+                        Phrase(text: "Rabbit", translation: "Umvundla", audioFileName: "Umvundla"),
+                        Phrase(text: "Goat", translation: "Imbuzi", audioFileName: "Umbuzi"),
+                        Phrase(text: "Cow", translation: "Inkomo", audioFileName: "Inkomo"),
+                        Phrase(text: "Horse", translation: "Ibhiza", audioFileName: "Ibhiza"),
+                        Phrase(text: "Bird", translation: "Inyoni", audioFileName: "Inyoni"),
+                     ]),
+                     
+                     PhraseCategory(name: "Colors", phrases: [
+                        Phrase(text: "White", translation: "Mhlophe", audioFileName: "Mhlophe"),
+                        Phrase(text: "Black", translation: "Mnyama", audioFileName: "Mnyama"),
+                        Phrase(text: "Green", translation: "Luhlaza", audioFileName: "Luhlazs"),
+                        Phrase(text: "Yellow", translation: "Lithanga", audioFileName: "Lithanga"),
+                        Phrase(text: "Red", translation: "Kubomvu", audioFileName: "Kubomvu"),
+                        Phrase(text: "Blue", translation: "Isibhakabhaka", audioFileName: "Isibhakabhaka"),
+                        Phrase(text: "Purple", translation: "Bubende", audioFileName: "Bubende"),
+                        Phrase(text: "Brown", translation: "Nsundu", audioFileName: "Nsundu"),
+                        Phrase(text: "Silver", translation: "Siliva", audioFileName: "Siliva"),
+                        Phrase(text: "Gold", translation: "Golide", audioFileName: "Golide"),
+                        Phrase(text: "Grey", translation: "Ludaka", audioFileName: "Ludaka")
+                     ]),
+                     
+            ]
+            
+            
+            
+            
+            
+            
+            
+            
+case .sepedi:
+  return [
+    PhraseCategory( name: "Greetings", phrases:
+                    [
+        Phrase( text: "Hello", translation: "Dumela", audioFileName: "Sawubona"),
+        Phrase( text: "Good Morning", translation: "Otsogile bjang?", audioFileName: "Livukanjani"),
+        Phrase( text: "Good Afternoon", translation: "Le hlwile bjang", audioFileName: "Litshonile"),
+        Phrase( text: "Good Afternoon, how about you", translation: "Re hlwile gabotse, re botsisa lena", audioFileName: "Litshonile"),
+        Phrase( text: "Good Evening", translation: "Dumelang?", audioFileName: "Litshonanjani"),
+        Phrase(text: "Good Night", translation: "Urobale gabotse", audioFileName: "Lalakuhle"),
+        Phrase(text: "How are you?", translation: "O bjang?", audioFileName: "Unjani"),
+        Phrase(text: "I'm fine, how are you?", translation: "Ke gona, o bjang?", audioFileName: "Unjani"),
+        Phrase(text: "What is your name?", translation: "Lebitso lagago ke mang?", audioFileName: "Igamalakhongubani"),
+        Phrase(text: "See you tommorrow", translation: "Ke tla go bona kamtswana", audioFileName: "Igamalakhongubani"),
+        Phrase(text: "Where are you from?", translation: "Otšwa kae?", audioFileName: "Uvelangaphi")
+                                            ]),
+    PhraseCategory(name: "Emergency", phrases: [
+        Phrase(text: "Help!", translation: "Thušo", audioFileName: "Usizo (1)"),
+        Phrase(text: "Fire!", translation: "Mollo!", audioFileName: "Umlilo"),
+        Phrase(text: "Thief!", translation: "Lehodu!", audioFileName: "Isela (1)"),
+        Phrase(text: "Stop!", translation: "Yema!", audioFileName: "Mana (1)"),
+        Phrase(text: "Watch out!", translation: "Hlokomela!", audioFileName: "Qaphela (1)"),
+        Phrase(text: "Are you okay?", translation: "O sharp?", audioFileName: "Uzizwa kahle na (1)"),
+        Phrase(text: "I'm okay", translation: "Kelokile", audioFileName: "Uzizwa kahle na (1)"),
+        Phrase(text: "Call an ambulance!", translation: "Bitsa ambulense!", audioFileName: "Fonela isbhedlela (1)" )
+                         ]),
+    
+    
+    PhraseCategory(name: "Common", phrases: [
+        Phrase(text: "Yes", translation: "Ee", audioFileName: "Yebo"),
+        Phrase(text: "No", translation: "Aowa", audioFileName: "Cha"),
+        Phrase(text: "Please", translation: "Kyagopela", audioFileName: "Ngiyacela"),
+        Phrase(text: "Thank you", translation: "Kea leboga", audioFileName: "Ngiyabonga"),
+        Phrase(text: "Excuse me", translation: "Tshwarelo", audioFileName: "Uxolo"),
+        Phrase(text: "You're welcome", translation: "Le amogetšwe", audioFileName: "Kulungile"),
+        Phrase(text: "Pardon", translation: "Tshwrelo", audioFileName: "Xolela"),
+        Phrase(text: "Just a moment", translation: "Motsotswana feela", audioFileName: "Isikhewana"),
+        Phrase(text: "I don't know", translation: "Aketsebe", audioFileName: "Angikwazi"),
+        Phrase(text: "I speak english", translation: "Ke bolela sekgowa", audioFileName: "Angikwazi"),
+        Phrase(text: "I'm learning Sepedi", translation: "Ke ithuta Sepedi", audioFileName: "Angikwazi"),
+        Phrase(text: "Again", translation: "Gape", audioFileName: "Angikwazi"),
+                         ]),
+                
+    
+    
+    PhraseCategory(name: "Questions", phrases: [
+        Phrase(text: "Questions", translation: "Diputśišo", audioFileName: "Kuyini"),
+        Phrase(text: "What?", translation: "Eng?", audioFileName: "Kuyini"),
+        Phrase(text: "How?", translation: "Bjang?", audioFileName: "Kuyini"),
+        Phrase(text: "Which?", translation: "Sefe?", audioFileName: "Kuphi"),
+        Phrase(text: "When?", translation: "Neng?", audioFileName: "Nini"),
+        Phrase(text: "Where?", translation: "Kae?", audioFileName: "Ngaphi"),
+        Phrase(text: "Why?", translation: "Goreng?", audioFileName: "Kungenxa yani"),
+        Phrase(text: "Who?", translation: "Mang?", audioFileName: "Ubani. Ngubani"),
+        Phrase(text: "How many?", translation: "Di kae?", audioFileName: "Bangaki"),
+        Phrase(text: "Because", translation: "Gobaneng", audioFileName: "Yimalini")
+                            
+                         ]),
+    PhraseCategory(name: "Numbers", phrases: [
+        Phrase(text: "One", translation: "Tee", audioFileName: "Kunye"),
+        Phrase(text: "Two", translation: "Pedi", audioFileName: "Kubili"),
+        Phrase(text: "Three", translation: "Tharo", audioFileName: "Kuthathu"),
+        Phrase(text: "Four", translation: "Nne", audioFileName: "Kune"),
+        Phrase(text: "Five", translation: "Hlanu", audioFileName: "Kuhlanu"),
+        Phrase(text: "Six", translation: "Tšela", audioFileName: "Isithupha"),
+        Phrase(text: "Seven", translation: "Šupa", audioFileName: "Isikhombisa"),
+        Phrase(text: "Eight", translation: "Seswai", audioFileName: "Isitshiyangalombili"),
+        Phrase(text: "Nine", translation: "Senyane", audioFileName: "Isitshiyangalolunye"),
+        Phrase(text: "Ten", translation: "Lesome", audioFileName: "Itshumi"),
+        Phrase(text: "Eleven", translation: "Lesome tee", audioFileName: "Isthumilakunye"),
+        Phrase(text: "Twelve", translation: "Lesome pedi", audioFileName: "Itshumilambili"),
+        Phrase(text: "Twenty", translation: "Masome pedi", audioFileName: "Amatshumi amabili"),
+        Phrase(text: "Thirty", translation: "Masome tharo", audioFileName: "Amatshumi amathathu"),
+        Phrase(text: "Forty", translation: "Masome nne", audioFileName: "Amatshumi amathathu"),
+        Phrase(text: "Fifty", translation: "Masome hlanu", audioFileName: "Amatshumi amathathu"),
+        Phrase(text: "Hundred", translation: "Lekgolo", audioFileName: "Amatshumi amathathu")
+                            
+                         ]),
+    PhraseCategory(name: "Body Parts", phrases: [
+                            
+        Phrase(text: "Head", translation: "Hlogo", audioFileName: "Ikhanda"),
+        Phrase(text: "Hair", translation: "Moriri", audioFileName: "Inwele"),
+        Phrase(text: "Eyes", translation: "Mehlo", audioFileName: "Amehlo"),
+        Phrase(text: "Nose", translation: "Nnko", audioFileName: "Amakhala"),
+        Phrase(text: "Mouth", translation: "Molomo", audioFileName: "Umlomo"),
+        Phrase(text: "Tongue", translation: "Leleme", audioFileName: "Umlomo"),
+        Phrase(text: "Stomach", translation: "Mpa", audioFileName: "Isisu"),
+        Phrase(text: "Chest", translation: "Sehuba", audioFileName: "Isifuba" ),
+        Phrase(text: "Heart", translation: "Pelo", audioFileName: "Inhliziyo" ),
+        Phrase(text: "Back", translation: "Mokokotlo", audioFileName: "Iqolo" ),
+        Phrase(text: "Leg", translation: "Leoto", audioFileName: "Iqolo" ),
+        Phrase(text: "Knee", translation: "Lengwele", audioFileName: "Iqolo" ),
+        Phrase(text: "Brain", translation: "Bjoko", audioFileName: "Iqolo" ),
+        Phrase(text: "Liver", translation: "Sebete", audioFileName: "Iqolo" ),
+        Phrase(text: "Blood", translation: "Madi", audioFileName: "Iqolo" ),
+        Phrase(text: "Face", translation: "Sefahlogo", audioFileName: "Iqolo" ),
+        Phrase(text: "Forehead", translation: "Sephatla", audioFileName: "Iqolo" ),
+        Phrase(text: "Cheek", translation: "Lerama", audioFileName: "Iqolo" ),
+        Phrase(text: "Skin", translation: "Letlalo", audioFileName: "Isikhumba" )
+                         ]),
+PhraseCategory(name: "Animals", phrases: [
+        Phrase(text: "Lion", translation: "Tau", audioFileName: "Isilwane"),
+        Phrase(text: "Buffalo", translation: "Nare", audioFileName: "Inyathi"),
+        Phrase(text: "Rhino", translation: "Tšhukudu", audioFileName: "Ubhejana"),
+        Phrase(text: "Chicken", translation: "Kgogo", audioFileName: "Inkukhu"),
+        Phrase(text: "Rabbit", translation: "Mmutla", audioFileName: "Umvundla"),
+        Phrase(text: "Goat", translation: "Pudi", audioFileName: "Umbuzi"),
+        Phrase(text: "Cow", translation: "Kgomu", audioFileName: "Inkomo"),
+        Phrase(text: "Horse", translation: "Pere", audioFileName: "Ibhiza"),
+        Phrase(text: "Bird", translation: "Nonyane", audioFileName: "Inyoni"),
+        Phrase(text: "Hyena", translation: "Phiri", audioFileName: "Inyoni"),
+        Phrase(text: "Baboon", translation: "Tshwene", audioFileName: "Inyoni"),
+        Phrase(text: "Tortoise", translation: "Khudu", audioFileName: "Inyoni"),
+        Phrase(text: "Pig", translation: "Kolobe", audioFileName: "Inyoni"),
+        Phrase(text: "Mouse", translation: "Legotlo", audioFileName: "Inyoni"),
+                         ]),
+                         
+    PhraseCategory(name: "Colors", phrases: [
+            Phrase(text: "Colors", translation: "Mebala", audioFileName: "Mhlophe"),
+            Phrase(text: "White", translation: "Šweu", audioFileName: "Mhlophe"),
+            Phrase(text: "Black", translation: "Ntsho", audioFileName: "Mnyama"),
+            Phrase(text: "Green", translation: "Talamorogo", audioFileName: "Luhlazs"),
+            Phrase(text: "Orange", translation: "Namune", audioFileName: "Luhlazs"),
+            Phrase(text: "Yellow", translation: "Selorwana", audioFileName: "Lithanga"),
+            Phrase(text: "Red", translation: "Hubedu", audioFileName: "Kubomvu"),
+            Phrase(text: "Blue", translation: "Talalerata", audioFileName: "Isibhakabhaka"),
+            Phrase(text: "Purple", translation: "Perese", audioFileName: "Bubende"),
+            Phrase(text: "Brown", translation: "Tsoto", audioFileName: "Nsundu"),
+            Phrase(text: "Silver", translation: "Silifere", audioFileName: "Siliva"),
+            Phrase(text: "Gold", translation: "Gauta", audioFileName: "Golide"),
+            Phrase(text: "Grey", translation: "Pududu", audioFileName: "Ludaka")
+                         ]),
             ]
         }
         
@@ -269,7 +446,17 @@ struct LanguageCategoryPage: View {
                     SideMenuView(isShowing: $showMenu)
                 }
                 .toolbar(showMenu ? .hidden : .visible, for: .navigationBar)
-                .navigationTitle(language == .shona ? "Shona " : "Ndebele ")
+                .navigationTitle({
+                    switch language {
+                    case .shona:
+                        return "Shona"
+                    case .ndebele:
+                        return "Ndebele"
+                    case .sepedi:
+                        return "Sesotho"
+                    }
+                } ()
+                )
                 .navigationBarTitleDisplayMode(.inline)
                 .toolbar {
                     ToolbarItem(placement: .topBarTrailing){
@@ -290,6 +477,6 @@ struct LanguageCategoryPage: View {
 
 #Preview {
     NavigationStack {
-        LanguageCategoryPage(language: .ndebele)
+        LanguageCategoryPage(language: .sepedi)
     }
 }
