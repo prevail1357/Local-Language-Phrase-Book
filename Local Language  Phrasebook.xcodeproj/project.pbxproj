@@ -37,6 +37,110 @@
 		E67F94812EB21DEE0063AC34 /* Inyathi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94742EB21DEE0063AC34 /* Inyathi.mp3 */; };
 		E67F94822EB21DEE0063AC34 /* Ubhejana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94772EB21DEE0063AC34 /* Ubhejana.mp3 */; };
 		E67F94832EB21DEE0063AC34 /* Isilwane.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94762EB21DEE0063AC34 /* Isilwane.mp3 */; };
+		E67F94CC2EB34F0B0063AC34 /* Urobale gabotse.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94CA2EB34F0B0063AC34 /* Urobale gabotse.mp3 */; };
+		E67F94CD2EB34F0B0063AC34 /* Ketlagobona kamtswana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94C32EB34F0B0063AC34 /* Ketlagobona kamtswana.mp3 */; };
+		E67F94CE2EB34F0B0063AC34 /* Rehlwile gabotse.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94C92EB34F0B0063AC34 /* Rehlwile gabotse.mp3 */; };
+		E67F94CF2EB34F0B0063AC34 /* Objang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94C62EB34F0B0063AC34 /* Objang.mp3 */; };
+		E67F94D02EB34F0B0063AC34 /* Lebitso lagago kemang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94C42EB34F0B0063AC34 /* Lebitso lagago kemang.mp3 */; };
+		E67F94D12EB34F0B0063AC34 /* Dumela.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94C02EB34F0B0063AC34 /* Dumela.mp3 */; };
+		E67F94D22EB34F0B0063AC34 /* Lehlwile bjang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94C52EB34F0B0063AC34 /* Lehlwile bjang.mp3 */; };
+		E67F94D32EB34F0B0063AC34 /* Kegona objang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94C22EB34F0B0063AC34 /* Kegona objang.mp3 */; };
+		E67F94D42EB34F0B0063AC34 /* Dumelang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94C12EB34F0B0063AC34 /* Dumelang.mp3 */; };
+		E67F94D52EB34F0B0063AC34 /* OtsogileBjang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94C82EB34F0B0063AC34 /* OtsogileBjang.mp3 */; };
+		E67F94D62EB34F0B0063AC34 /* Otlwa kar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94C72EB34F0B0063AC34 /* Otlwa kar.mp3 */; };
+		E67F94E22EB34F110063AC34 /* Diputsiso.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94D92EB34F110063AC34 /* Diputsiso.mp3 */; };
+		E67F94E32EB34F110063AC34 /* Bjang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94D72EB34F110063AC34 /* Bjang.mp3 */; };
+		E67F94E42EB34F110063AC34 /* Di kae.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94D82EB34F110063AC34 /* Di kae.mp3 */; };
+		E67F94E52EB34F110063AC34 /* Kae.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94DD2EB34F110063AC34 /* Kae.mp3 */; };
+		E67F94E62EB34F110063AC34 /* Neng.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94DF2EB34F110063AC34 /* Neng.mp3 */; };
+		E67F94E72EB34F110063AC34 /* Sefe.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94E02EB34F110063AC34 /* Sefe.mp3 */; };
+		E67F94E82EB34F110063AC34 /* Goreng.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94DC2EB34F110063AC34 /* Goreng.mp3 */; };
+		E67F94E92EB34F110063AC34 /* Mang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94DE2EB34F110063AC34 /* Mang.mp3 */; };
+		E67F94EA2EB34F110063AC34 /* Gobaneng.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94DB2EB34F110063AC34 /* Gobaneng.mp3 */; };
+		E67F94EB2EB34F110063AC34 /* Eng.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94DA2EB34F110063AC34 /* Eng.mp3 */; };
+		E67F94F52EB34F190063AC34 /* Yema.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94F32EB34F190063AC34 /* Yema.mp3 */; };
+		E67F94F62EB34F190063AC34 /* Bitsa ambulense.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94EC2EB34F190063AC34 /* Bitsa ambulense.mp3 */; };
+		E67F94F72EB34F190063AC34 /* Hlokomela.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94ED2EB34F190063AC34 /* Hlokomela.mp3 */; };
+		E67F94F82EB34F190063AC34 /* O sharp.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94F12EB34F190063AC34 /* O sharp.mp3 */; };
+		E67F94F92EB34F190063AC34 /* Lehodu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94EF2EB34F190063AC34 /* Lehodu.mp3 */; };
+		E67F94FA2EB34F190063AC34 /* Thuso.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94F22EB34F190063AC34 /* Thuso.mp3 */; };
+		E67F94FB2EB34F190063AC34 /* Kelokile.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94EE2EB34F190063AC34 /* Kelokile.mp3 */; };
+		E67F94FC2EB34F190063AC34 /* Mollo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94F02EB34F190063AC34 /* Mollo.mp3 */; };
+		E67F950A2EB34F200063AC34 /* Aowa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94FE2EB34F200063AC34 /* Aowa.mp3 */; };
+		E67F950B2EB34F200063AC34 /* Motsotswana fela.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95062EB34F200063AC34 /* Motsotswana fela.mp3 */; };
+		E67F950C2EB34F200063AC34 /* Ee.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94FF2EB34F200063AC34 /* Ee.mp3 */; };
+		E67F950D2EB34F200063AC34 /* Leamogetswe.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95052EB34F200063AC34 /* Leamogetswe.mp3 */; };
+		E67F950E2EB34F200063AC34 /* Aketsebe.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F94FD2EB34F200063AC34 /* Aketsebe.mp3 */; };
+		E67F950F2EB34F200063AC34 /* Tshwarelo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95072EB34F200063AC34 /* Tshwarelo.mp3 */; };
+		E67F95102EB34F200063AC34 /* Kebolela segoa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95032EB34F200063AC34 /* Kebolela segoa.mp3 */; };
+		E67F95112EB34F200063AC34 /* Tswarelo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95082EB34F200063AC34 /* Tswarelo.mp3 */; };
+		E67F95122EB34F200063AC34 /* Gape.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95002EB34F200063AC34 /* Gape.mp3 */; };
+		E67F95132EB34F200063AC34 /* Kea leboga.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95022EB34F200063AC34 /* Kea leboga.mp3 */; };
+		E67F95142EB34F200063AC34 /* Ke ithuta sepedi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95012EB34F200063AC34 /* Ke ithuta sepedi.mp3 */; };
+		E67F95152EB34F200063AC34 /* Kyagopela.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95042EB34F200063AC34 /* Kyagopela.mp3 */; };
+		E67F95252EB36CB20063AC34 /* Legotlo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F951A2EB36CB20063AC34 /* Legotlo.mp3 */; };
+		E67F95262EB36CB20063AC34 /* Tshukudu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95222EB36CB20063AC34 /* Tshukudu.mp3 */; };
+		E67F95272EB36CB20063AC34 /* Pudi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95202EB36CB20063AC34 /* Pudi.mp3 */; };
+		E67F95282EB36CB20063AC34 /* Tau.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95212EB36CB20063AC34 /* Tau.mp3 */; };
+		E67F95292EB36CB20063AC34 /* Khudu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95182EB36CB20063AC34 /* Khudu.mp3 */; };
+		E67F952A2EB36CB20063AC34 /* Kolobe.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95192EB36CB20063AC34 /* Kolobe.mp3 */; };
+		E67F952B2EB36CB20063AC34 /* Pere.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F951E2EB36CB20063AC34 /* Pere.mp3 */; };
+		E67F952C2EB36CB20063AC34 /* Phiri.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F951F2EB36CB20063AC34 /* Phiri.mp3 */; };
+		E67F952D2EB36CB20063AC34 /* Mmutla.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F951B2EB36CB20063AC34 /* Mmutla.mp3 */; };
+		E67F952E2EB36CB20063AC34 /* Kgomu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95172EB36CB20063AC34 /* Kgomu.mp3 */; };
+		E67F952F2EB36CB20063AC34 /* Kgogo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95162EB36CB20063AC34 /* Kgogo.mp3 */; };
+		E67F95302EB36CB20063AC34 /* Tshwene.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95232EB36CB20063AC34 /* Tshwene.mp3 */; };
+		E67F95312EB36CB20063AC34 /* Nonyane.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F951D2EB36CB20063AC34 /* Nonyane.mp3 */; };
+		E67F95322EB36CB20063AC34 /* Nar3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F951C2EB36CB20063AC34 /* Nar3.mp3 */; };
+		E67F95412EB36CBC0063AC34 /* Ntsho.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95372EB36CBC0063AC34 /* Ntsho.mp3 */; };
+		E67F95422EB36CBC0063AC34 /* Selorwana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F953A2EB36CBC0063AC34 /* Selorwana.mp3 */; };
+		E67F95432EB36CBC0063AC34 /* Talamorogo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F953E2EB36CBC0063AC34 /* Talamorogo.mp3 */; };
+		E67F95442EB36CBC0063AC34 /* Mebala.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95352EB36CBC0063AC34 /* Mebala.mp3 */; };
+		E67F95452EB36CBC0063AC34 /* Pududu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95392EB36CBC0063AC34 /* Pududu.mp3 */; };
+		E67F95462EB36CBC0063AC34 /* Talalerata.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F953D2EB36CBC0063AC34 /* Talalerata.mp3 */; };
+		E67F95472EB36CBC0063AC34 /* Silifere.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F953B2EB36CBC0063AC34 /* Silifere.mp3 */; };
+		E67F95482EB36CBC0063AC34 /* Namena.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95362EB36CBC0063AC34 /* Namena.mp3 */; };
+		E67F95492EB36CBC0063AC34 /* Sweu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F953C2EB36CBC0063AC34 /* Sweu.mp3 */; };
+		E67F954A2EB36CBC0063AC34 /* Tsoto.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F953F2EB36CBC0063AC34 /* Tsoto.mp3 */; };
+		E67F954B2EB36CBC0063AC34 /* Perese.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95382EB36CBC0063AC34 /* Perese.mp3 */; };
+		E67F954C2EB36CBC0063AC34 /* Gauta.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95332EB36CBC0063AC34 /* Gauta.mp3 */; };
+		E67F954D2EB36CBC0063AC34 /* Hubedu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95342EB36CBC0063AC34 /* Hubedu.mp3 */; };
+		E67F95622EB36CC50063AC34 /* Mehlo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95562EB36CC50063AC34 /* Mehlo.mp3 */; };
+		E67F95632EB36CC50063AC34 /* Leleme.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95502EB36CC50063AC34 /* Leleme.mp3 */; };
+		E67F95642EB36CC50063AC34 /* Leoto.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95522EB36CC50063AC34 /* Leoto.mp3 */; };
+		E67F95652EB36CC50063AC34 /* Letlalo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95542EB36CC50063AC34 /* Letlalo.mp3 */; };
+		E67F95662EB36CC50063AC34 /* Nnko.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F955B2EB36CC50063AC34 /* Nnko.mp3 */; };
+		E67F95672EB36CC50063AC34 /* Bjoko.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F954E2EB36CC50063AC34 /* Bjoko.mp3 */; };
+		E67F95682EB36CC50063AC34 /* Mokokotlo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95572EB36CC50063AC34 /* Mokokotlo.mp3 */; };
+		E67F95692EB36CC50063AC34 /* Sehuba.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F955F2EB36CC50063AC34 /* Sehuba.mp3 */; };
+		E67F956A2EB36CC50063AC34 /* Lengwele.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95512EB36CC50063AC34 /* Lengwele.mp3 */; };
+		E67F956B2EB36CC50063AC34 /* Pelo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F955C2EB36CC50063AC34 /* Pelo.mp3 */; };
+		E67F956C2EB36CC50063AC34 /* Lerama.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95532EB36CC50063AC34 /* Lerama.mp3 */; };
+		E67F956D2EB36CC50063AC34 /* Sefahlogo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F955E2EB36CC50063AC34 /* Sefahlogo.mp3 */; };
+		E67F956E2EB36CC50063AC34 /* Sephatla.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95602EB36CC50063AC34 /* Sephatla.mp3 */; };
+		E67F956F2EB36CC50063AC34 /* Madi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95552EB36CC50063AC34 /* Madi.mp3 */; };
+		E67F95702EB36CC50063AC34 /* Moriri.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95592EB36CC50063AC34 /* Moriri.mp3 */; };
+		E67F95712EB36CC50063AC34 /* Sebete.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F955D2EB36CC50063AC34 /* Sebete.mp3 */; };
+		E67F95722EB36CC50063AC34 /* Hlogo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F954F2EB36CC50063AC34 /* Hlogo.mp3 */; };
+		E67F95732EB36CC50063AC34 /* Mpa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F955A2EB36CC50063AC34 /* Mpa.mp3 */; };
+		E67F95742EB36CC50063AC34 /* Molomo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95582EB36CC50063AC34 /* Molomo.mp3 */; };
+		E67F95872EB36CCF0063AC34 /* Tee.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95832EB36CCF0063AC34 /* Tee.mp3 */; };
+		E67F95882EB36CCF0063AC34 /* Masome mne.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F957B2EB36CCF0063AC34 /* Masome mne.mp3 */; };
+		E67F95892EB36CCF0063AC34 /* Masome hlanu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F957A2EB36CCF0063AC34 /* Masome hlanu.mp3 */; };
+		E67F958A2EB36CCF0063AC34 /* Tsela.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95852EB36CCF0063AC34 /* Tsela.mp3 */; };
+		E67F958B2EB36CCF0063AC34 /* Hlanu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95752EB36CCF0063AC34 /* Hlanu.mp3 */; };
+		E67F958C2EB36CCF0063AC34 /* Pedi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F957F2EB36CCF0063AC34 /* Pedi.mp3 */; };
+		E67F958D2EB36CCF0063AC34 /* Lesome.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95772EB36CCF0063AC34 /* Lesome.mp3 */; };
+		E67F958E2EB36CCF0063AC34 /* Lesome pedi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95782EB36CCF0063AC34 /* Lesome pedi.mp3 */; };
+		E67F958F2EB36CCF0063AC34 /* Seswai.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95812EB36CCF0063AC34 /* Seswai.mp3 */; };
+		E67F95902EB36CCF0063AC34 /* Nne.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F957E2EB36CCF0063AC34 /* Nne.mp3 */; };
+		E67F95912EB36CCF0063AC34 /* Lekgolo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95762EB36CCF0063AC34 /* Lekgolo.mp3 */; };
+		E67F95922EB36CCF0063AC34 /* Senyane.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95802EB36CCF0063AC34 /* Senyane.mp3 */; };
+		E67F95932EB36CCF0063AC34 /* Masome tharo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F957D2EB36CCF0063AC34 /* Masome tharo.mp3 */; };
+		E67F95942EB36CCF0063AC34 /* Supa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95822EB36CCF0063AC34 /* Supa.mp3 */; };
+		E67F95952EB36CCF0063AC34 /* Masome pedi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F957C2EB36CCF0063AC34 /* Masome pedi.mp3 */; };
+		E67F95962EB36CCF0063AC34 /* Lesome tee.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95792EB36CCF0063AC34 /* Lesome tee.mp3 */; };
+		E67F95972EB36CCF0063AC34 /* Tharo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E67F95842EB36CCF0063AC34 /* Tharo.mp3 */; };
 		E6C768472EAA5EFC002820A2 /* Isithupha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E6C7683B2EAA5EFC002820A2 /* Isithupha.mp3 */; };
 		E6C768482EAA5EFC002820A2 /* Isikhombisa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E6C7683A2EAA5EFC002820A2 /* Isikhombisa.mp3 */; };
 		E6C768492EAA5EFC002820A2 /* Kuthathu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E6C768452EAA5EFC002820A2 /* Kuthathu.mp3 */; };
@@ -215,6 +319,110 @@
 		E67F94772EB21DEE0063AC34 /* Ubhejana.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Ubhejana.mp3; sourceTree = "<group>"; };
 		E67F94782EB21DEE0063AC34 /* Umbuzi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Umbuzi.mp3; sourceTree = "<group>"; };
 		E67F94792EB21DEE0063AC34 /* Umvundla.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Umvundla.mp3; sourceTree = "<group>"; };
+		E67F94C02EB34F0B0063AC34 /* Dumela.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Dumela.mp3; sourceTree = "<group>"; };
+		E67F94C12EB34F0B0063AC34 /* Dumelang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Dumelang.mp3; sourceTree = "<group>"; };
+		E67F94C22EB34F0B0063AC34 /* Kegona objang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Kegona objang.mp3"; sourceTree = "<group>"; };
+		E67F94C32EB34F0B0063AC34 /* Ketlagobona kamtswana.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ketlagobona kamtswana.mp3"; sourceTree = "<group>"; };
+		E67F94C42EB34F0B0063AC34 /* Lebitso lagago kemang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Lebitso lagago kemang.mp3"; sourceTree = "<group>"; };
+		E67F94C52EB34F0B0063AC34 /* Lehlwile bjang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Lehlwile bjang.mp3"; sourceTree = "<group>"; };
+		E67F94C62EB34F0B0063AC34 /* Objang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Objang.mp3; sourceTree = "<group>"; };
+		E67F94C72EB34F0B0063AC34 /* Otlwa kar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Otlwa kar.mp3"; sourceTree = "<group>"; };
+		E67F94C82EB34F0B0063AC34 /* OtsogileBjang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = OtsogileBjang.mp3; sourceTree = "<group>"; };
+		E67F94C92EB34F0B0063AC34 /* Rehlwile gabotse.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Rehlwile gabotse.mp3"; sourceTree = "<group>"; };
+		E67F94CA2EB34F0B0063AC34 /* Urobale gabotse.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Urobale gabotse.mp3"; sourceTree = "<group>"; };
+		E67F94D72EB34F110063AC34 /* Bjang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Bjang.mp3; sourceTree = "<group>"; };
+		E67F94D82EB34F110063AC34 /* Di kae.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Di kae.mp3"; sourceTree = "<group>"; };
+		E67F94D92EB34F110063AC34 /* Diputsiso.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Diputsiso.mp3; sourceTree = "<group>"; };
+		E67F94DA2EB34F110063AC34 /* Eng.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Eng.mp3; sourceTree = "<group>"; };
+		E67F94DB2EB34F110063AC34 /* Gobaneng.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Gobaneng.mp3; sourceTree = "<group>"; };
+		E67F94DC2EB34F110063AC34 /* Goreng.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Goreng.mp3; sourceTree = "<group>"; };
+		E67F94DD2EB34F110063AC34 /* Kae.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Kae.mp3; sourceTree = "<group>"; };
+		E67F94DE2EB34F110063AC34 /* Mang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Mang.mp3; sourceTree = "<group>"; };
+		E67F94DF2EB34F110063AC34 /* Neng.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Neng.mp3; sourceTree = "<group>"; };
+		E67F94E02EB34F110063AC34 /* Sefe.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Sefe.mp3; sourceTree = "<group>"; };
+		E67F94EC2EB34F190063AC34 /* Bitsa ambulense.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Bitsa ambulense.mp3"; sourceTree = "<group>"; };
+		E67F94ED2EB34F190063AC34 /* Hlokomela.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Hlokomela.mp3; sourceTree = "<group>"; };
+		E67F94EE2EB34F190063AC34 /* Kelokile.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Kelokile.mp3; sourceTree = "<group>"; };
+		E67F94EF2EB34F190063AC34 /* Lehodu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Lehodu.mp3; sourceTree = "<group>"; };
+		E67F94F02EB34F190063AC34 /* Mollo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Mollo.mp3; sourceTree = "<group>"; };
+		E67F94F12EB34F190063AC34 /* O sharp.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "O sharp.mp3"; sourceTree = "<group>"; };
+		E67F94F22EB34F190063AC34 /* Thuso.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Thuso.mp3; sourceTree = "<group>"; };
+		E67F94F32EB34F190063AC34 /* Yema.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Yema.mp3; sourceTree = "<group>"; };
+		E67F94FD2EB34F200063AC34 /* Aketsebe.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Aketsebe.mp3; sourceTree = "<group>"; };
+		E67F94FE2EB34F200063AC34 /* Aowa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Aowa.mp3; sourceTree = "<group>"; };
+		E67F94FF2EB34F200063AC34 /* Ee.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Ee.mp3; sourceTree = "<group>"; };
+		E67F95002EB34F200063AC34 /* Gape.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Gape.mp3; sourceTree = "<group>"; };
+		E67F95012EB34F200063AC34 /* Ke ithuta sepedi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ke ithuta sepedi.mp3"; sourceTree = "<group>"; };
+		E67F95022EB34F200063AC34 /* Kea leboga.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Kea leboga.mp3"; sourceTree = "<group>"; };
+		E67F95032EB34F200063AC34 /* Kebolela segoa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Kebolela segoa.mp3"; sourceTree = "<group>"; };
+		E67F95042EB34F200063AC34 /* Kyagopela.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Kyagopela.mp3; sourceTree = "<group>"; };
+		E67F95052EB34F200063AC34 /* Leamogetswe.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Leamogetswe.mp3; sourceTree = "<group>"; };
+		E67F95062EB34F200063AC34 /* Motsotswana fela.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Motsotswana fela.mp3"; sourceTree = "<group>"; };
+		E67F95072EB34F200063AC34 /* Tshwarelo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Tshwarelo.mp3; sourceTree = "<group>"; };
+		E67F95082EB34F200063AC34 /* Tswarelo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Tswarelo.mp3; sourceTree = "<group>"; };
+		E67F95162EB36CB20063AC34 /* Kgogo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Kgogo.mp3; sourceTree = "<group>"; };
+		E67F95172EB36CB20063AC34 /* Kgomu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Kgomu.mp3; sourceTree = "<group>"; };
+		E67F95182EB36CB20063AC34 /* Khudu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Khudu.mp3; sourceTree = "<group>"; };
+		E67F95192EB36CB20063AC34 /* Kolobe.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Kolobe.mp3; sourceTree = "<group>"; };
+		E67F951A2EB36CB20063AC34 /* Legotlo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Legotlo.mp3; sourceTree = "<group>"; };
+		E67F951B2EB36CB20063AC34 /* Mmutla.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Mmutla.mp3; sourceTree = "<group>"; };
+		E67F951C2EB36CB20063AC34 /* Nar3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Nar3.mp3; sourceTree = "<group>"; };
+		E67F951D2EB36CB20063AC34 /* Nonyane.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Nonyane.mp3; sourceTree = "<group>"; };
+		E67F951E2EB36CB20063AC34 /* Pere.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Pere.mp3; sourceTree = "<group>"; };
+		E67F951F2EB36CB20063AC34 /* Phiri.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Phiri.mp3; sourceTree = "<group>"; };
+		E67F95202EB36CB20063AC34 /* Pudi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Pudi.mp3; sourceTree = "<group>"; };
+		E67F95212EB36CB20063AC34 /* Tau.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Tau.mp3; sourceTree = "<group>"; };
+		E67F95222EB36CB20063AC34 /* Tshukudu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Tshukudu.mp3; sourceTree = "<group>"; };
+		E67F95232EB36CB20063AC34 /* Tshwene.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Tshwene.mp3; sourceTree = "<group>"; };
+		E67F95332EB36CBC0063AC34 /* Gauta.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Gauta.mp3; sourceTree = "<group>"; };
+		E67F95342EB36CBC0063AC34 /* Hubedu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Hubedu.mp3; sourceTree = "<group>"; };
+		E67F95352EB36CBC0063AC34 /* Mebala.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Mebala.mp3; sourceTree = "<group>"; };
+		E67F95362EB36CBC0063AC34 /* Namena.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Namena.mp3; sourceTree = "<group>"; };
+		E67F95372EB36CBC0063AC34 /* Ntsho.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Ntsho.mp3; sourceTree = "<group>"; };
+		E67F95382EB36CBC0063AC34 /* Perese.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Perese.mp3; sourceTree = "<group>"; };
+		E67F95392EB36CBC0063AC34 /* Pududu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Pududu.mp3; sourceTree = "<group>"; };
+		E67F953A2EB36CBC0063AC34 /* Selorwana.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Selorwana.mp3; sourceTree = "<group>"; };
+		E67F953B2EB36CBC0063AC34 /* Silifere.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Silifere.mp3; sourceTree = "<group>"; };
+		E67F953C2EB36CBC0063AC34 /* Sweu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Sweu.mp3; sourceTree = "<group>"; };
+		E67F953D2EB36CBC0063AC34 /* Talalerata.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Talalerata.mp3; sourceTree = "<group>"; };
+		E67F953E2EB36CBC0063AC34 /* Talamorogo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Talamorogo.mp3; sourceTree = "<group>"; };
+		E67F953F2EB36CBC0063AC34 /* Tsoto.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Tsoto.mp3; sourceTree = "<group>"; };
+		E67F954E2EB36CC50063AC34 /* Bjoko.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Bjoko.mp3; sourceTree = "<group>"; };
+		E67F954F2EB36CC50063AC34 /* Hlogo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Hlogo.mp3; sourceTree = "<group>"; };
+		E67F95502EB36CC50063AC34 /* Leleme.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Leleme.mp3; sourceTree = "<group>"; };
+		E67F95512EB36CC50063AC34 /* Lengwele.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Lengwele.mp3; sourceTree = "<group>"; };
+		E67F95522EB36CC50063AC34 /* Leoto.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Leoto.mp3; sourceTree = "<group>"; };
+		E67F95532EB36CC50063AC34 /* Lerama.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Lerama.mp3; sourceTree = "<group>"; };
+		E67F95542EB36CC50063AC34 /* Letlalo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Letlalo.mp3; sourceTree = "<group>"; };
+		E67F95552EB36CC50063AC34 /* Madi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Madi.mp3; sourceTree = "<group>"; };
+		E67F95562EB36CC50063AC34 /* Mehlo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Mehlo.mp3; sourceTree = "<group>"; };
+		E67F95572EB36CC50063AC34 /* Mokokotlo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Mokokotlo.mp3; sourceTree = "<group>"; };
+		E67F95582EB36CC50063AC34 /* Molomo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Molomo.mp3; sourceTree = "<group>"; };
+		E67F95592EB36CC50063AC34 /* Moriri.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Moriri.mp3; sourceTree = "<group>"; };
+		E67F955A2EB36CC50063AC34 /* Mpa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Mpa.mp3; sourceTree = "<group>"; };
+		E67F955B2EB36CC50063AC34 /* Nnko.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Nnko.mp3; sourceTree = "<group>"; };
+		E67F955C2EB36CC50063AC34 /* Pelo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Pelo.mp3; sourceTree = "<group>"; };
+		E67F955D2EB36CC50063AC34 /* Sebete.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Sebete.mp3; sourceTree = "<group>"; };
+		E67F955E2EB36CC50063AC34 /* Sefahlogo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Sefahlogo.mp3; sourceTree = "<group>"; };
+		E67F955F2EB36CC50063AC34 /* Sehuba.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Sehuba.mp3; sourceTree = "<group>"; };
+		E67F95602EB36CC50063AC34 /* Sephatla.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Sephatla.mp3; sourceTree = "<group>"; };
+		E67F95752EB36CCF0063AC34 /* Hlanu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Hlanu.mp3; sourceTree = "<group>"; };
+		E67F95762EB36CCF0063AC34 /* Lekgolo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Lekgolo.mp3; sourceTree = "<group>"; };
+		E67F95772EB36CCF0063AC34 /* Lesome.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Lesome.mp3; sourceTree = "<group>"; };
+		E67F95782EB36CCF0063AC34 /* Lesome pedi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Lesome pedi.mp3"; sourceTree = "<group>"; };
+		E67F95792EB36CCF0063AC34 /* Lesome tee.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Lesome tee.mp3"; sourceTree = "<group>"; };
+		E67F957A2EB36CCF0063AC34 /* Masome hlanu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Masome hlanu.mp3"; sourceTree = "<group>"; };
+		E67F957B2EB36CCF0063AC34 /* Masome mne.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Masome mne.mp3"; sourceTree = "<group>"; };
+		E67F957C2EB36CCF0063AC34 /* Masome pedi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Masome pedi.mp3"; sourceTree = "<group>"; };
+		E67F957D2EB36CCF0063AC34 /* Masome tharo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Masome tharo.mp3"; sourceTree = "<group>"; };
+		E67F957E2EB36CCF0063AC34 /* Nne.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Nne.mp3; sourceTree = "<group>"; };
+		E67F957F2EB36CCF0063AC34 /* Pedi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Pedi.mp3; sourceTree = "<group>"; };
+		E67F95802EB36CCF0063AC34 /* Senyane.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Senyane.mp3; sourceTree = "<group>"; };
+		E67F95812EB36CCF0063AC34 /* Seswai.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Seswai.mp3; sourceTree = "<group>"; };
+		E67F95822EB36CCF0063AC34 /* Supa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Supa.mp3; sourceTree = "<group>"; };
+		E67F95832EB36CCF0063AC34 /* Tee.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Tee.mp3; sourceTree = "<group>"; };
+		E67F95842EB36CCF0063AC34 /* Tharo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Tharo.mp3; sourceTree = "<group>"; };
+		E67F95852EB36CCF0063AC34 /* Tsela.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Tsela.mp3; sourceTree = "<group>"; };
 		E6C768382EAA5EFC002820A2 /* Amatshumi amabili.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Amatshumi amabili.mp3"; sourceTree = "<group>"; };
 		E6C768392EAA5EFC002820A2 /* Amatshumi amathathu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Amatshumi amathathu.mp3"; sourceTree = "<group>"; };
 		E6C7683A2EAA5EFC002820A2 /* Isikhombisa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Isikhombisa.mp3; sourceTree = "<group>"; };
@@ -485,9 +693,185 @@
 			path = "Shona Audios";
 			sourceTree = "<group>";
 		};
+		E67F94BF2EB34E8C0063AC34 /* Sepedi Audios */ = {
+			isa = PBXGroup;
+			children = (
+				E67F94CB2EB34F0B0063AC34 /* Sepedi greetings */,
+				E67F94E12EB34F110063AC34 /* Sepedi questions */,
+				E67F94F42EB34F190063AC34 /* Sepedi emergency */,
+				E67F95092EB34F200063AC34 /* sepedi common */,
+				E67F95242EB36CB20063AC34 /* Sepedi animals */,
+				E67F95402EB36CBC0063AC34 /* Sepedi colors */,
+				E67F95612EB36CC50063AC34 /* Sepedi body parts */,
+				E67F95862EB36CCF0063AC34 /* Sepedi numbers */,
+			);
+			path = "Sepedi Audios";
+			sourceTree = "<group>";
+		};
+		E67F94CB2EB34F0B0063AC34 /* Sepedi greetings */ = {
+			isa = PBXGroup;
+			children = (
+				E67F94C02EB34F0B0063AC34 /* Dumela.mp3 */,
+				E67F94C12EB34F0B0063AC34 /* Dumelang.mp3 */,
+				E67F94C22EB34F0B0063AC34 /* Kegona objang.mp3 */,
+				E67F94C32EB34F0B0063AC34 /* Ketlagobona kamtswana.mp3 */,
+				E67F94C42EB34F0B0063AC34 /* Lebitso lagago kemang.mp3 */,
+				E67F94C52EB34F0B0063AC34 /* Lehlwile bjang.mp3 */,
+				E67F94C62EB34F0B0063AC34 /* Objang.mp3 */,
+				E67F94C72EB34F0B0063AC34 /* Otlwa kar.mp3 */,
+				E67F94C82EB34F0B0063AC34 /* OtsogileBjang.mp3 */,
+				E67F94C92EB34F0B0063AC34 /* Rehlwile gabotse.mp3 */,
+				E67F94CA2EB34F0B0063AC34 /* Urobale gabotse.mp3 */,
+			);
+			path = "Sepedi greetings";
+			sourceTree = "<group>";
+		};
+		E67F94E12EB34F110063AC34 /* Sepedi questions */ = {
+			isa = PBXGroup;
+			children = (
+				E67F94D72EB34F110063AC34 /* Bjang.mp3 */,
+				E67F94D82EB34F110063AC34 /* Di kae.mp3 */,
+				E67F94D92EB34F110063AC34 /* Diputsiso.mp3 */,
+				E67F94DA2EB34F110063AC34 /* Eng.mp3 */,
+				E67F94DB2EB34F110063AC34 /* Gobaneng.mp3 */,
+				E67F94DC2EB34F110063AC34 /* Goreng.mp3 */,
+				E67F94DD2EB34F110063AC34 /* Kae.mp3 */,
+				E67F94DE2EB34F110063AC34 /* Mang.mp3 */,
+				E67F94DF2EB34F110063AC34 /* Neng.mp3 */,
+				E67F94E02EB34F110063AC34 /* Sefe.mp3 */,
+			);
+			path = "Sepedi questions";
+			sourceTree = "<group>";
+		};
+		E67F94F42EB34F190063AC34 /* Sepedi emergency */ = {
+			isa = PBXGroup;
+			children = (
+				E67F94EC2EB34F190063AC34 /* Bitsa ambulense.mp3 */,
+				E67F94ED2EB34F190063AC34 /* Hlokomela.mp3 */,
+				E67F94EE2EB34F190063AC34 /* Kelokile.mp3 */,
+				E67F94EF2EB34F190063AC34 /* Lehodu.mp3 */,
+				E67F94F02EB34F190063AC34 /* Mollo.mp3 */,
+				E67F94F12EB34F190063AC34 /* O sharp.mp3 */,
+				E67F94F22EB34F190063AC34 /* Thuso.mp3 */,
+				E67F94F32EB34F190063AC34 /* Yema.mp3 */,
+			);
+			path = "Sepedi emergency";
+			sourceTree = "<group>";
+		};
+		E67F95092EB34F200063AC34 /* sepedi common */ = {
+			isa = PBXGroup;
+			children = (
+				E67F94FD2EB34F200063AC34 /* Aketsebe.mp3 */,
+				E67F94FE2EB34F200063AC34 /* Aowa.mp3 */,
+				E67F94FF2EB34F200063AC34 /* Ee.mp3 */,
+				E67F95002EB34F200063AC34 /* Gape.mp3 */,
+				E67F95012EB34F200063AC34 /* Ke ithuta sepedi.mp3 */,
+				E67F95022EB34F200063AC34 /* Kea leboga.mp3 */,
+				E67F95032EB34F200063AC34 /* Kebolela segoa.mp3 */,
+				E67F95042EB34F200063AC34 /* Kyagopela.mp3 */,
+				E67F95052EB34F200063AC34 /* Leamogetswe.mp3 */,
+				E67F95062EB34F200063AC34 /* Motsotswana fela.mp3 */,
+				E67F95072EB34F200063AC34 /* Tshwarelo.mp3 */,
+				E67F95082EB34F200063AC34 /* Tswarelo.mp3 */,
+			);
+			path = "sepedi common";
+			sourceTree = "<group>";
+		};
+		E67F95242EB36CB20063AC34 /* Sepedi animals */ = {
+			isa = PBXGroup;
+			children = (
+				E67F95162EB36CB20063AC34 /* Kgogo.mp3 */,
+				E67F95172EB36CB20063AC34 /* Kgomu.mp3 */,
+				E67F95182EB36CB20063AC34 /* Khudu.mp3 */,
+				E67F95192EB36CB20063AC34 /* Kolobe.mp3 */,
+				E67F951A2EB36CB20063AC34 /* Legotlo.mp3 */,
+				E67F951B2EB36CB20063AC34 /* Mmutla.mp3 */,
+				E67F951C2EB36CB20063AC34 /* Nar3.mp3 */,
+				E67F951D2EB36CB20063AC34 /* Nonyane.mp3 */,
+				E67F951E2EB36CB20063AC34 /* Pere.mp3 */,
+				E67F951F2EB36CB20063AC34 /* Phiri.mp3 */,
+				E67F95202EB36CB20063AC34 /* Pudi.mp3 */,
+				E67F95212EB36CB20063AC34 /* Tau.mp3 */,
+				E67F95222EB36CB20063AC34 /* Tshukudu.mp3 */,
+				E67F95232EB36CB20063AC34 /* Tshwene.mp3 */,
+			);
+			path = "Sepedi animals";
+			sourceTree = "<group>";
+		};
+		E67F95402EB36CBC0063AC34 /* Sepedi colors */ = {
+			isa = PBXGroup;
+			children = (
+				E67F95332EB36CBC0063AC34 /* Gauta.mp3 */,
+				E67F95342EB36CBC0063AC34 /* Hubedu.mp3 */,
+				E67F95352EB36CBC0063AC34 /* Mebala.mp3 */,
+				E67F95362EB36CBC0063AC34 /* Namena.mp3 */,
+				E67F95372EB36CBC0063AC34 /* Ntsho.mp3 */,
+				E67F95382EB36CBC0063AC34 /* Perese.mp3 */,
+				E67F95392EB36CBC0063AC34 /* Pududu.mp3 */,
+				E67F953A2EB36CBC0063AC34 /* Selorwana.mp3 */,
+				E67F953B2EB36CBC0063AC34 /* Silifere.mp3 */,
+				E67F953C2EB36CBC0063AC34 /* Sweu.mp3 */,
+				E67F953D2EB36CBC0063AC34 /* Talalerata.mp3 */,
+				E67F953E2EB36CBC0063AC34 /* Talamorogo.mp3 */,
+				E67F953F2EB36CBC0063AC34 /* Tsoto.mp3 */,
+			);
+			path = "Sepedi colors";
+			sourceTree = "<group>";
+		};
+		E67F95612EB36CC50063AC34 /* Sepedi body parts */ = {
+			isa = PBXGroup;
+			children = (
+				E67F954E2EB36CC50063AC34 /* Bjoko.mp3 */,
+				E67F954F2EB36CC50063AC34 /* Hlogo.mp3 */,
+				E67F95502EB36CC50063AC34 /* Leleme.mp3 */,
+				E67F95512EB36CC50063AC34 /* Lengwele.mp3 */,
+				E67F95522EB36CC50063AC34 /* Leoto.mp3 */,
+				E67F95532EB36CC50063AC34 /* Lerama.mp3 */,
+				E67F95542EB36CC50063AC34 /* Letlalo.mp3 */,
+				E67F95552EB36CC50063AC34 /* Madi.mp3 */,
+				E67F95562EB36CC50063AC34 /* Mehlo.mp3 */,
+				E67F95572EB36CC50063AC34 /* Mokokotlo.mp3 */,
+				E67F95582EB36CC50063AC34 /* Molomo.mp3 */,
+				E67F95592EB36CC50063AC34 /* Moriri.mp3 */,
+				E67F955A2EB36CC50063AC34 /* Mpa.mp3 */,
+				E67F955B2EB36CC50063AC34 /* Nnko.mp3 */,
+				E67F955C2EB36CC50063AC34 /* Pelo.mp3 */,
+				E67F955D2EB36CC50063AC34 /* Sebete.mp3 */,
+				E67F955E2EB36CC50063AC34 /* Sefahlogo.mp3 */,
+				E67F955F2EB36CC50063AC34 /* Sehuba.mp3 */,
+				E67F95602EB36CC50063AC34 /* Sephatla.mp3 */,
+			);
+			path = "Sepedi body parts";
+			sourceTree = "<group>";
+		};
+		E67F95862EB36CCF0063AC34 /* Sepedi numbers */ = {
+			isa = PBXGroup;
+			children = (
+				E67F95752EB36CCF0063AC34 /* Hlanu.mp3 */,
+				E67F95762EB36CCF0063AC34 /* Lekgolo.mp3 */,
+				E67F95772EB36CCF0063AC34 /* Lesome.mp3 */,
+				E67F95782EB36CCF0063AC34 /* Lesome pedi.mp3 */,
+				E67F95792EB36CCF0063AC34 /* Lesome tee.mp3 */,
+				E67F957A2EB36CCF0063AC34 /* Masome hlanu.mp3 */,
+				E67F957B2EB36CCF0063AC34 /* Masome mne.mp3 */,
+				E67F957C2EB36CCF0063AC34 /* Masome pedi.mp3 */,
+				E67F957D2EB36CCF0063AC34 /* Masome tharo.mp3 */,
+				E67F957E2EB36CCF0063AC34 /* Nne.mp3 */,
+				E67F957F2EB36CCF0063AC34 /* Pedi.mp3 */,
+				E67F95802EB36CCF0063AC34 /* Senyane.mp3 */,
+				E67F95812EB36CCF0063AC34 /* Seswai.mp3 */,
+				E67F95822EB36CCF0063AC34 /* Supa.mp3 */,
+				E67F95832EB36CCF0063AC34 /* Tee.mp3 */,
+				E67F95842EB36CCF0063AC34 /* Tharo.mp3 */,
+				E67F95852EB36CCF0063AC34 /* Tsela.mp3 */,
+			);
+			path = "Sepedi numbers";
+			sourceTree = "<group>";
+		};
 		E6C768372EAA5E95002820A2 /* AudioTracks */ = {
 			isa = PBXGroup;
 			children = (
+				E67F94BF2EB34E8C0063AC34 /* Sepedi Audios */,
 				E67F94A42EB2796E0063AC34 /* Shona Audios */,
 				E67F94A32EB2791E0063AC34 /* Ndebele audios */,
 				E67328172EA1039200A12621 /* Local Language  Phrasebook */,
@@ -866,6 +1250,25 @@
 				E67F947D2EB21DEE0063AC34 /* Ibhiza.mp3 in Resources */,
 				E67F947E2EB21DEE0063AC34 /* Umbuzi.mp3 in Resources */,
 				E67F947F2EB21DEE0063AC34 /* Inkomo.mp3 in Resources */,
+				E67F95622EB36CC50063AC34 /* Mehlo.mp3 in Resources */,
+				E67F95632EB36CC50063AC34 /* Leleme.mp3 in Resources */,
+				E67F95642EB36CC50063AC34 /* Leoto.mp3 in Resources */,
+				E67F95652EB36CC50063AC34 /* Letlalo.mp3 in Resources */,
+				E67F95662EB36CC50063AC34 /* Nnko.mp3 in Resources */,
+				E67F95672EB36CC50063AC34 /* Bjoko.mp3 in Resources */,
+				E67F95682EB36CC50063AC34 /* Mokokotlo.mp3 in Resources */,
+				E67F95692EB36CC50063AC34 /* Sehuba.mp3 in Resources */,
+				E67F956A2EB36CC50063AC34 /* Lengwele.mp3 in Resources */,
+				E67F956B2EB36CC50063AC34 /* Pelo.mp3 in Resources */,
+				E67F956C2EB36CC50063AC34 /* Lerama.mp3 in Resources */,
+				E67F956D2EB36CC50063AC34 /* Sefahlogo.mp3 in Resources */,
+				E67F956E2EB36CC50063AC34 /* Sephatla.mp3 in Resources */,
+				E67F956F2EB36CC50063AC34 /* Madi.mp3 in Resources */,
+				E67F95702EB36CC50063AC34 /* Moriri.mp3 in Resources */,
+				E67F95712EB36CC50063AC34 /* Sebete.mp3 in Resources */,
+				E67F95722EB36CC50063AC34 /* Hlogo.mp3 in Resources */,
+				E67F95732EB36CC50063AC34 /* Mpa.mp3 in Resources */,
+				E67F95742EB36CC50063AC34 /* Molomo.mp3 in Resources */,
 				E67F94802EB21DEE0063AC34 /* Inkukhu.mp3 in Resources */,
 				E67F94812EB21DEE0063AC34 /* Inyathi.mp3 in Resources */,
 				E67F94822EB21DEE0063AC34 /* Ubhejana.mp3 in Resources */,
@@ -903,6 +1306,23 @@
 				E6C7693C2EAB7655002820A2 /* Mhoro.mp3 in Resources */,
 				E6C7693D2EAB7655002820A2 /* Masikati.mp3 in Resources */,
 				E6C7693E2EAB7655002820A2 /* Urare.mp3 in Resources */,
+				E67F95872EB36CCF0063AC34 /* Tee.mp3 in Resources */,
+				E67F95882EB36CCF0063AC34 /* Masome mne.mp3 in Resources */,
+				E67F95892EB36CCF0063AC34 /* Masome hlanu.mp3 in Resources */,
+				E67F958A2EB36CCF0063AC34 /* Tsela.mp3 in Resources */,
+				E67F958B2EB36CCF0063AC34 /* Hlanu.mp3 in Resources */,
+				E67F958C2EB36CCF0063AC34 /* Pedi.mp3 in Resources */,
+				E67F958D2EB36CCF0063AC34 /* Lesome.mp3 in Resources */,
+				E67F958E2EB36CCF0063AC34 /* Lesome pedi.mp3 in Resources */,
+				E67F958F2EB36CCF0063AC34 /* Seswai.mp3 in Resources */,
+				E67F95902EB36CCF0063AC34 /* Nne.mp3 in Resources */,
+				E67F95912EB36CCF0063AC34 /* Lekgolo.mp3 in Resources */,
+				E67F95922EB36CCF0063AC34 /* Senyane.mp3 in Resources */,
+				E67F95932EB36CCF0063AC34 /* Masome tharo.mp3 in Resources */,
+				E67F95942EB36CCF0063AC34 /* Supa.mp3 in Resources */,
+				E67F95952EB36CCF0063AC34 /* Masome pedi.mp3 in Resources */,
+				E67F95962EB36CCF0063AC34 /* Lesome tee.mp3 in Resources */,
+				E67F95972EB36CCF0063AC34 /* Tharo.mp3 in Resources */,
 				E6C768A92EAA5F2A002820A2 /* Tatu.mp3 in Resources */,
 				E6C768AA2EAA5F2A002820A2 /* Imwe.mp3 in Resources */,
 				E6C768AB2EAA5F2A002820A2 /* Zana.mp3 in Resources */,
@@ -935,6 +1355,52 @@
 				E6C768F32EAA5F68002820A2 /* Sawubona.mp3 in Resources */,
 				E6C768F42EAA5F68002820A2 /* Unjani.mp3 in Resources */,
 				E6C768F52EAA5F68002820A2 /* Litshonanjani.mp3 in Resources */,
+				E67F94E22EB34F110063AC34 /* Diputsiso.mp3 in Resources */,
+				E67F94E32EB34F110063AC34 /* Bjang.mp3 in Resources */,
+				E67F94E42EB34F110063AC34 /* Di kae.mp3 in Resources */,
+				E67F94E52EB34F110063AC34 /* Kae.mp3 in Resources */,
+				E67F94E62EB34F110063AC34 /* Neng.mp3 in Resources */,
+				E67F94E72EB34F110063AC34 /* Sefe.mp3 in Resources */,
+				E67F94E82EB34F110063AC34 /* Goreng.mp3 in Resources */,
+				E67F94E92EB34F110063AC34 /* Mang.mp3 in Resources */,
+				E67F94EA2EB34F110063AC34 /* Gobaneng.mp3 in Resources */,
+				E67F94EB2EB34F110063AC34 /* Eng.mp3 in Resources */,
+				E67F950A2EB34F200063AC34 /* Aowa.mp3 in Resources */,
+				E67F950B2EB34F200063AC34 /* Motsotswana fela.mp3 in Resources */,
+				E67F950C2EB34F200063AC34 /* Ee.mp3 in Resources */,
+				E67F950D2EB34F200063AC34 /* Leamogetswe.mp3 in Resources */,
+				E67F950E2EB34F200063AC34 /* Aketsebe.mp3 in Resources */,
+				E67F950F2EB34F200063AC34 /* Tshwarelo.mp3 in Resources */,
+				E67F95102EB34F200063AC34 /* Kebolela segoa.mp3 in Resources */,
+				E67F95112EB34F200063AC34 /* Tswarelo.mp3 in Resources */,
+				E67F95122EB34F200063AC34 /* Gape.mp3 in Resources */,
+				E67F95132EB34F200063AC34 /* Kea leboga.mp3 in Resources */,
+				E67F95142EB34F200063AC34 /* Ke ithuta sepedi.mp3 in Resources */,
+				E67F95152EB34F200063AC34 /* Kyagopela.mp3 in Resources */,
+				E67F94CC2EB34F0B0063AC34 /* Urobale gabotse.mp3 in Resources */,
+				E67F94CD2EB34F0B0063AC34 /* Ketlagobona kamtswana.mp3 in Resources */,
+				E67F94CE2EB34F0B0063AC34 /* Rehlwile gabotse.mp3 in Resources */,
+				E67F94CF2EB34F0B0063AC34 /* Objang.mp3 in Resources */,
+				E67F94D02EB34F0B0063AC34 /* Lebitso lagago kemang.mp3 in Resources */,
+				E67F94D12EB34F0B0063AC34 /* Dumela.mp3 in Resources */,
+				E67F95412EB36CBC0063AC34 /* Ntsho.mp3 in Resources */,
+				E67F95422EB36CBC0063AC34 /* Selorwana.mp3 in Resources */,
+				E67F95432EB36CBC0063AC34 /* Talamorogo.mp3 in Resources */,
+				E67F95442EB36CBC0063AC34 /* Mebala.mp3 in Resources */,
+				E67F95452EB36CBC0063AC34 /* Pududu.mp3 in Resources */,
+				E67F95462EB36CBC0063AC34 /* Talalerata.mp3 in Resources */,
+				E67F95472EB36CBC0063AC34 /* Silifere.mp3 in Resources */,
+				E67F95482EB36CBC0063AC34 /* Namena.mp3 in Resources */,
+				E67F95492EB36CBC0063AC34 /* Sweu.mp3 in Resources */,
+				E67F954A2EB36CBC0063AC34 /* Tsoto.mp3 in Resources */,
+				E67F954B2EB36CBC0063AC34 /* Perese.mp3 in Resources */,
+				E67F954C2EB36CBC0063AC34 /* Gauta.mp3 in Resources */,
+				E67F954D2EB36CBC0063AC34 /* Hubedu.mp3 in Resources */,
+				E67F94D22EB34F0B0063AC34 /* Lehlwile bjang.mp3 in Resources */,
+				E67F94D32EB34F0B0063AC34 /* Kegona objang.mp3 in Resources */,
+				E67F94D42EB34F0B0063AC34 /* Dumelang.mp3 in Resources */,
+				E67F94D52EB34F0B0063AC34 /* OtsogileBjang.mp3 in Resources */,
+				E67F94D62EB34F0B0063AC34 /* Otlwa kar.mp3 in Resources */,
 				E6C768F62EAA5F68002820A2 /* Uvelangaphi.mp3 in Resources */,
 				E6C768F72EAA5F68002820A2 /* Livukanjani.mp3 in Resources */,
 				E67F94662EB21DE30063AC34 /* Kubomvu.mp3 in Resources */,
@@ -974,6 +1440,28 @@
 				E67F94502EB21DD80063AC34 /* Amakhala.mp3 in Resources */,
 				E67F94512EB21DD80063AC34 /* Amehlo.mp3 in Resources */,
 				E67F94522EB21DD80063AC34 /* Isifuba.mp3 in Resources */,
+				E67F94F52EB34F190063AC34 /* Yema.mp3 in Resources */,
+				E67F94F62EB34F190063AC34 /* Bitsa ambulense.mp3 in Resources */,
+				E67F95252EB36CB20063AC34 /* Legotlo.mp3 in Resources */,
+				E67F95262EB36CB20063AC34 /* Tshukudu.mp3 in Resources */,
+				E67F95272EB36CB20063AC34 /* Pudi.mp3 in Resources */,
+				E67F95282EB36CB20063AC34 /* Tau.mp3 in Resources */,
+				E67F95292EB36CB20063AC34 /* Khudu.mp3 in Resources */,
+				E67F952A2EB36CB20063AC34 /* Kolobe.mp3 in Resources */,
+				E67F952B2EB36CB20063AC34 /* Pere.mp3 in Resources */,
+				E67F952C2EB36CB20063AC34 /* Phiri.mp3 in Resources */,
+				E67F952D2EB36CB20063AC34 /* Mmutla.mp3 in Resources */,
+				E67F952E2EB36CB20063AC34 /* Kgomu.mp3 in Resources */,
+				E67F952F2EB36CB20063AC34 /* Kgogo.mp3 in Resources */,
+				E67F95302EB36CB20063AC34 /* Tshwene.mp3 in Resources */,
+				E67F95312EB36CB20063AC34 /* Nonyane.mp3 in Resources */,
+				E67F95322EB36CB20063AC34 /* Nar3.mp3 in Resources */,
+				E67F94F72EB34F190063AC34 /* Hlokomela.mp3 in Resources */,
+				E67F94F82EB34F190063AC34 /* O sharp.mp3 in Resources */,
+				E67F94F92EB34F190063AC34 /* Lehodu.mp3 in Resources */,
+				E67F94FA2EB34F190063AC34 /* Thuso.mp3 in Resources */,
+				E67F94FB2EB34F190063AC34 /* Kelokile.mp3 in Resources */,
+				E67F94FC2EB34F190063AC34 /* Mollo.mp3 in Resources */,
 				E67F94532EB21DD80063AC34 /* Iqolo.mp3 in Resources */,
 				E67F94542EB21DD80063AC34 /* Umlomo.mp3 in Resources */,
 				E67F94552EB21DD80063AC34 /* Isikhumba.mp3 in Resources */,

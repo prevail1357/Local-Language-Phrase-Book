@@ -32,11 +32,11 @@ struct PhraseListView: View {
                         
                         Spacer()
                         
-                        ShareLink(item: "\(phrase)"){
-                            Image(systemName: "square.and.arrow.up")
-                                .imageScale(.large)
-                        }
-                            
+//                        ShareLink(item: "\(phrase)"){
+//                            Image(systemName: "square.and.arrow.up")
+//                                .imageScale(.large)
+//                        }
+//                            
 
                         Button( action: {
                             playAudio(fileName: phrase.audioFileName)
