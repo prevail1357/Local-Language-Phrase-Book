@@ -32,10 +32,10 @@ struct PhraseListView: View {
                         
                         Spacer()
                         
-//                        ShareLink(item: "\(phrase)"){
-//                            Image(systemName: "square.and.arrow.up")
-//                                .imageScale(.large)
-//                        }
+                        ShareLink(item: "\(phrase)"){
+                            Image(systemName: "square.and.arrow.up")
+                                .imageScale(.large)
+                        }
 //                            
 
                         Button( action: {
@@ -46,6 +46,8 @@ struct PhraseListView: View {
                                 .font(.title3)
                         }
                     }
+                    
+                    .buttonStyle(BorderlessButtonStyle())
                     RoundedRectangle(cornerRadius: 20)
                         .foregroundColor(.green)
                         .opacity(0.5)
