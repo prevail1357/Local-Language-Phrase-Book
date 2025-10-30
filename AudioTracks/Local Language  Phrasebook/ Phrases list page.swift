@@ -29,6 +29,14 @@ struct PhraseListView: View {
                                 .foregroundColor(.blue)
                                 .frame(maxWidth: .infinity, alignment: .leading)
                         }
+                        
+                        Spacer()
+                        
+//                        ShareLink(item: "\(phrase)"){
+//                            Image(systemName: "square.and.arrow.up")
+//                                .imageScale(.large)
+//                        }
+//                            
 
                         Button( action: {
                             playAudio(fileName: phrase.audioFileName)
