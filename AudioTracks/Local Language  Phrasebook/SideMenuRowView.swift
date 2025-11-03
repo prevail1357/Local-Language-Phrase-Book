@@ -36,5 +36,5 @@ struct SideMenuRowView: View {
 }
 
 #Preview {
-    SideMenuRowView(option: .faivorites, selectedOption: .constant(.faivorites))
+    SideMenuRowView(option: .favourites, selectedOption: .constant(.favourites))
 }

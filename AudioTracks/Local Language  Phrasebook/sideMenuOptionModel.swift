@@ -8,7 +8,7 @@
 import Foundation
 
 enum SideMenuOptionModel: Int, CaseIterable {
-    case faivorites
+    case favourites
     case History
     case Settings
     case quizzes
@@ -19,8 +19,8 @@ enum SideMenuOptionModel: Int, CaseIterable {
             return "History"
         case .Settings:
             return "Settings"
-        case .faivorites:
-            return "Faviorites"
+        case .favourites:
+            return "Favourites"
         case .quizzes:
             return "Quizzes"
         }
@@ -32,7 +32,7 @@ enum SideMenuOptionModel: Int, CaseIterable {
             return "clock"
         case .Settings:
             return "gearshape"
-        case .faivorites:
+        case .favourites:
             return "star"
         case .quizzes:
             return "questionmark.circle"
