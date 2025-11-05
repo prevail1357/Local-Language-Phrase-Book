@@ -32,7 +32,7 @@ struct PhraseListView: View {
                         
                         Spacer()
                         
-                        ShareLink(item: "\(phrase)"){
+                        ShareLink(item: "\(phrase.translation)"){
                             Image(systemName: "square.and.arrow.up")
                                 .imageScale(.large)
                         }

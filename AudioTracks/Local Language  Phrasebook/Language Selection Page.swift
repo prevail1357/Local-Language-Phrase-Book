@@ -53,7 +53,7 @@ struct LanguageSelectionPage: View {
                             RoundedRectangle(cornerRadius: 20)
                                 .fill(AngularGradient(gradient: Gradient(colors: [Color.white, Color.green]), center: .bottom, angle: .degrees(365)))
                                 .frame(width: 390, height: 90)
-                       Text("Sotho")
+                       Text("Sepedi")
                                 .foregroundColor(.indigo)
                                 .font(.title)
                                 .fontWeight(.bold)

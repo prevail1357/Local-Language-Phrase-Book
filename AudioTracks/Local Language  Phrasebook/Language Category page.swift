@@ -83,7 +83,7 @@ struct LanguageCategoryPage: View {
                     case .ndebele:
                         return "Ndebele"
                     case .sepedi:
-                        return "Sesotho"
+                        return "Sepedi"
                     }
                 } ()
                 )
